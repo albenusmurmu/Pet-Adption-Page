@@ -1,0 +1,35 @@
+h2>i{
+    color: rgb(186, 127, 39);
+}
+
+h1>span{
+    color: rgb(116, 87, 9);
+}
+
+
+ .cards {
+    width: 400px;
+    border:2px solid black;
+    border-radius: 25px;
+    /* padding: 30px;
+    margin: 10px; */
+    
+}
+
+
+
+ img{
+    height: 200px;
+    width: 360px;
+    border-radius: 25px;
+    padding: 20px;
+  
+
+}
+#Nature  {
+    color: #000000;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+    
